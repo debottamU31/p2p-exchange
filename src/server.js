@@ -1,3 +1,9 @@
+/**
+ * Boilerplate scripts to check connection and basic feature
+ * you can ignore this and read through readme
+ */
+
+
 const { PeerRPCServer } = require('grenache-nodejs-http')
 const Link = require('grenache-nodejs-link')
 
